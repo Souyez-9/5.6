@@ -64,3 +64,7 @@ footer {
     background-color: #333;
     color: white;
 }
+img {
+    outline: #4CAF50;
+    outline-style: auto;
+}
